@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Project runtime artifacts (generated per product)
+.output/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# 私有开发规范与工具配置
+deepseekpp/
+.cursor/
+.cursorignore
+.cursorindexingignore
+.vscode/
+.obsidian/
+.specstory/
+reference/
+Graphify安装与使用说明.md
+SDD_V3*.md
